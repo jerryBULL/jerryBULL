@@ -1,7 +1,6 @@
 # 簡子樫 （Jerry）
 
 * Education : 國立勤益科技大學
-* Personal Website : https://github.com/JimYah
 * Location : 桃園市
 
 ## 技能
