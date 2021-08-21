@@ -1,6 +1,6 @@
 # 簡子樫 （Jerry）
 
-* Education : 私立高苑科技大學 - 電子系（航空電子組）
+* Education : 國立勤益科技大學
 * Personal Website : https://github.com/JimYah
 * Location : 桃園市
 
