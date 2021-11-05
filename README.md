@@ -16,6 +16,8 @@
 * 對原生 Javascript 有基礎的了解，目前較常使用 Jquery 做開發與練習。
 * Jquery - 會使用 Jquery 做簡單的動畫效果、ajax 抓取第三方 api 資料。
 * Vue - 了解生命週期、使用component模組化。
+* React - 了解生命週期、基本用法。
+* NodeJS - 架設server。
 
 ### Git/GitHub
 
