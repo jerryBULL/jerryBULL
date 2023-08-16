@@ -25,7 +25,7 @@
 * Socket
 * 與資料庫溝通
 
-### Flutter
+### Dart & Flutter
 * 網頁 & 安卓 APP & Ios APP 打包
 
 ### Git/GitHub
