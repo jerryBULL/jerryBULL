@@ -24,9 +24,12 @@
 * 寄送 Email
 * Socket
 * 與資料庫溝通
+* 使用框架：laravel & thinkphp
 
 ### Dart & Flutter
-* 網頁 & 安卓 APP & Ios APP 打包
+* 基本 Widget 使用
+* 安卓 + Ios APP 打包
+* Ajax
 
 ### Git/GitHub
 * 能夠使用 GitHub Pages 建立一個靜態網頁
