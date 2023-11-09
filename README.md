@@ -39,3 +39,5 @@
 
 ## 作品
 * [地震即時資訊](https://jerrybull.github.io/TaiwanEarthquake/ "link")
+* [線上AES加解密](https://jerrybull.github.io/AESEncryptionAndDecryption/ "link")
+* [旅遊公用金](https://jerrybull.github.io/TourismPublicFunds/ "link")
